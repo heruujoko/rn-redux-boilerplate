@@ -3,39 +3,84 @@
 
     <item
         is-multidex="false"
-        jar="/Users/herujokoutomo/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_99458e6b69c9f90df4b8874a9e45efd63507eed7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_f8ef3a881bb2ed63a3b6f25fe07f6e091a7977a1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
-        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.48.3_09488bbece00cef8bc2c0310bfbf9aef8d83b3ba.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
         <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.github.ybq-Android-SpinKit-1.1.0_e0298556269d2eee62a830e7d6e8fd069fb2f4f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_4f6c1e6a6e365a1096f60c70b072b2337026701e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_df71517b7dbfafc07df87421d73f297b2e3b7d1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_48cda91d6aca0e1c5ee55f2d2c31f7c9f7456d5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.48.2_503cac0d33f8efd9eb9e8c79eb0678844da820d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_756c070ebc7bee727a6b000c56370e43ea7155f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_1cf08929c8237fc54eee6e6987437c742fa20512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_783c36a4fa0f4922fc5b37c316717fe4b2e7cf87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b4508607f4878db4bf0bea4a18c0c278f7e8935d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,48 +102,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_1fcad38cbc58606c751d7ef2ccf208aabf09696e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_1ce8f868b2919873d2fe786997c91b2fc6809cca.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_ca646cfd268e8d702718b1f7889fa804de015be5.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
         <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_fd9275ca9016e748ed2e18bcbd206da7790ac58a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/auto2000internal/react-native-spinkit/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="47b99616af6817e323d7b404b2f1922ca22228ad">
-        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/auto2000internal-react-native-spinkit-unspecified_033e4508b307a903cf527f933a53660c80003190.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,21 +120,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/auto2000internal/react-native-spinkit/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_48cda91d6aca0e1c5ee55f2d2c31f7c9f7456d5f.jar" />
+        sha1="47b99616af6817e323d7b404b2f1922ca22228ad">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/auto2000internal-react-native-spinkit-unspecified_033e4508b307a903cf527f933a53660c80003190.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b4588e03877e07b29bb3659a4ac0470f0e41c3be.jar" />
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_345c3f93f9f17eac49757f9e028c1457e3b4147f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,39 +147,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_1dbee2198f015aba34a8397e38c20bd82f757200.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_6f511f45265d305bbb9de725d5e8d31d4b1f1346.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
         <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_753f3bcee96a6b6904336442668283a51632b57b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/herujokoutomo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_756c070ebc7bee727a6b000c56370e43ea7155f6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -183,12 +165,93 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/herujokoutomo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jar="/Users/herujokoutomo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_78d2096cfea3bf6882ba915af09edc6a0140563f.jar" />
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_ffef49126806575233bd886e06df59bfd416ef69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_99458e6b69c9f90df4b8874a9e45efd63507eed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_005d37a5f23b93bcd662fe138373c53d29344091.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_1fcad38cbc58606c751d7ef2ccf208aabf09696e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_ca646cfd268e8d702718b1f7889fa804de015be5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b4588e03877e07b29bb3659a4ac0470f0e41c3be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/auto2000internal/react-native-spinkit/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="47b99616af6817e323d7b404b2f1922ca22228ad">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/auto2000internal-react-native-spinkit-unspecified_85804b6056bb78677abf378a5c0423cc71a76a61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_d85456b05dca59a169bf3f458f5215888145e8ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_6f511f45265d305bbb9de725d5e8d31d4b1f1346.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/com.github.ybq-Android-SpinKit-1.1.0_3829827110c41510cc1baa41c8871bbbaa1fd99f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -201,12 +264,84 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/herujokoutomo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_ffef49126806575233bd886e06df59bfd416ef69.jar" />
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_f8ef3a881bb2ed63a3b6f25fe07f6e091a7977a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.48.3_09488bbece00cef8bc2c0310bfbf9aef8d83b3ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_1ce8f868b2919873d2fe786997c91b2fc6809cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_1dbee2198f015aba34a8397e38c20bd82f757200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_5aec5ff0c592a2be84dbb915f75bb634e9e87c79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_ec6ba21333b3b7147730f3825c38b18a4708a3bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_645b6508c26357eff70c2e1b4a1db596f5e63b80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_61ab484b5b62c0b58d4763c3bb494779064d2410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/herujokoutomo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_78d2096cfea3bf6882ba915af09edc6a0140563f.jar" />
     </item>
 
 </items>

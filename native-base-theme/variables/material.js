@@ -7,6 +7,8 @@ const deviceWidth = Dimensions.get("window").width;
 const platform = Platform.OS;
 const platformStyle = "material";
 
+import { mainAppColor, mainBackground, secondaryBackground} from '../../src/variables';
+
 export default {
   platformStyle,
   platform,
@@ -142,16 +144,16 @@ export default {
   tabActiveBgColor: undefined,
 
   // Tab
-  tabDefaultBg: "#3F51B5",
-  topTabBarTextColor: "#b3c7f9",
-  topTabBarActiveTextColor: "#fff",
+  tabDefaultBg: secondaryBackground,
+  topTabBarTextColor: "#eee",
+  topTabBarActiveTextColor: mainAppColor,
   topTabActiveBgColor: undefined,
-  topTabBarBorderColor: "#fff",
-  topTabBarActiveBorderColor: "#fff",
+  topTabBarBorderColor: mainAppColor,
+  topTabBarActiveBorderColor: mainAppColor,
 
   // Header
   toolbarBtnColor: "#fff",
-  toolbarDefaultBg: "#3F51B5",
+  toolbarDefaultBg: mainBackground,
   toolbarHeight: platform === "ios" ? 76 : 56,
   toolbarIconSize: platform === "ios" ? 20 : 22,
   toolbarSearchIconSize: platform === "ios" ? 20 : 23,

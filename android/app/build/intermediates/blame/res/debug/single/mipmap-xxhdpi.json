@@ -2,5 +2,9 @@
     {
         "merged": "/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/herujokoutomo/Code/reactnative/auto2000internal/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/herujokoutomo/Code/reactnative/moneyz/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]

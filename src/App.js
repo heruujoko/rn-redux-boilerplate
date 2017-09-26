@@ -8,8 +8,9 @@ import { Scene, Router, ActionConst } from 'react-native-router-flux';
 import store from './store'
 
 // pages
-import Splash from './pages/splash'
-import Login from './pages/login'
+import Splash from './pages/splash';
+import Login from './pages/login';
+import Dashboard from './pages/dashboard/index';
 
 class App extends Component {
 
@@ -21,6 +22,7 @@ class App extends Component {
             <Scene key="root">
               <Scene key="splash" component={Splash} hideNavBar={true} title="splash" />
               <Scene key="login" component={Login} hideNavBar={true} title="login" />
+              <Scene key="dashboard" component={Dashboard} hideNavBar={true} title="login" />
             </Scene>
           </Router>
         </Provider>

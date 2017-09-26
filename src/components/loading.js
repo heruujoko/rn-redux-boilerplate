@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { View, Text, TextInput, StyleSheet, Image, TouchableOpacity } from 'react-native'
 import Spinner from 'react-native-spinkit'
 
-import { mainAppColor } from '../variables'
+import { mainAppColor, mainBackground, secondaryBackground } from '../variables'
 
 class Loading extends Component {
 
@@ -13,12 +13,12 @@ class Loading extends Component {
           <View style={styles.curtain}></View>
           <View style={styles.loadingBox}>
             <Spinner isVisible={true} size={50} type={'Wave'} color={mainAppColor} />
-            <Text>loading</Text>
+            <Text style={{ color: "#fff"}}>loading</Text>
           </View>
         </View>
-      )
+      );
     } else {
-      return null
+      return null;
     }
   }
 
@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
   },
   loadingBox: {
     zIndex: 11,
-    backgroundColor: 'white',
+    backgroundColor: secondaryBackground,
     borderRadius: 20,
     width: 200,
     height: 150,
