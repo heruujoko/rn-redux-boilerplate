@@ -6,5 +6,9 @@
     {
         "merged": "/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/Users/herujokoutomo/Code/reactnative/moneyz/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/herujokoutomo/Code/reactnative/rn-boilerplate/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/herujokoutomo/Code/reactnative/rn-boilerplate/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

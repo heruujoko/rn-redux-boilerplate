@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "682198428784",
+    "firebase_url": "https://pushlearn-958b8.firebaseio.com",
+    "project_id": "pushlearn-958b8",
+    "storage_bucket": "pushlearn-958b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682198428784:android:bacfd1e33ceee374",
+        "android_client_info": {
+          "package_name": "com.pushnotifsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682198428784-78im5tm57i40rbnb6vpodcrgkjfidooq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcXz0vU6wWb3wVUaDe_HkX6TgutpPgUJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682198428784:android:18d88326eca35fb5",
+        "android_client_info": {
+          "package_name": "com.auto2000internal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682198428784-78im5tm57i40rbnb6vpodcrgkjfidooq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcXz0vU6wWb3wVUaDe_HkX6TgutpPgUJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

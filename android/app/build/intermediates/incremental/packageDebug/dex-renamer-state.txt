@@ -1,4 +1,4 @@
-#Sat Sep 23 20:39:29 WITA 2017
-base.0=/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Fri Feb 23 23:00:57 WITA 2018
+base.0=/Users/herujokoutomo/Code/reactnative/rn-boilerplate/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/herujokoutomo/Code/reactnative/moneyz/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/herujokoutomo/Code/reactnative/rn-boilerplate/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

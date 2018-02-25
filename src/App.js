@@ -1,34 +1,60 @@
 import React, { Component } from 'react'
 import { View } from 'react-native'
-import { StyleProvider } from 'native-base'
-import getTheme from './../native-base-theme/components';
-import material from './../native-base-theme/variables/material';
 import { Provider } from 'react-redux'
-import { Scene, Router, ActionConst } from 'react-native-router-flux';
+import { DefaultTheme, Provider as PaperProvider } from 'react-native-paper'
+import { Scene, Router, ActionConst } from 'react-native-router-flux'
+import Notification from 'react-native-in-app-notification';
 import store from './store'
 
 // pages
-import Splash from './pages/splash';
-import Login from './pages/login';
-import Dashboard from './pages/dashboard/index';
+import Splash from './pages/splash'
+
+const theme = {
+    ...DefaultTheme,
+    roundness: 2,
+    colors: {
+        ...DefaultTheme.colors,
+        primary: '#3498db',
+        accent: '#f1c40f',
+        secondaryText: '#fff'
+    }
+}
 
 class App extends Component {
 
-  render() {
-    return (
-      <StyleProvider style={getTheme(material)}>
-        <Provider store={store}>
-          <Router>
-            <Scene key="root">
-              <Scene key="splash" component={Splash} hideNavBar={true} title="splash" />
-              <Scene key="login" component={Login} hideNavBar={true} title="login" />
-              <Scene key="dashboard" component={Dashboard} hideNavBar={true} title="login" />
-            </Scene>
-          </Router>
-        </Provider>
-      </StyleProvider>
-    )
-  }
+    constructor(){
+        super();
+    }
+
+    localNotification(){
+        this.notification.show({
+            title: 'You pressed it!',
+            message: 'The notification has been triggered'
+        })
+    }
+
+    componentDidMount(){
+        this.localNotification();
+    }
+
+    render() {
+        let self = this;
+
+        return (
+            <View style={{ flex: 1}}>
+                <PaperProvider theme={theme}>
+                    <Provider store={store}>
+                        <Router>
+                            <Scene key="root">
+                                <Scene key="splash" component={Splash} hideNavBar={true} title="splash" localNotification={() => this.localNotification()}/>
+                            </Scene>
+                        </Router>
+                    </Provider>
+                </PaperProvider>
+                <Notification ref={(ref) => this.notification = ref }/>
+            </View>
+        )
+    }
 
 }
 

@@ -4,41 +4,49 @@
  * @flow
  */
 
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 import {
-  AppRegistry,
-  StyleSheet,
-  Text,
-  View
-} from 'react-native';
+    AppRegistry,
+    StyleSheet,
+    Text,
+    View
+} from 'react-native'
 
-import App from './src/App'
+import App from './src/App.js'
+import BackgroundJob from 'react-native-background-job'
 
 export default class auto2000internal extends Component {
-  render() {
-    return (
-      <App />
-    );
-  }
+    render() {
+        return (
+            <App/>
+        )
+    }
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
-});
+    container: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#F5FCFF',
+    },
+    welcome: {
+        fontSize: 20,
+        textAlign: 'center',
+        margin: 10,
+    },
+    instructions: {
+        textAlign: 'center',
+        color: '#333333',
+        marginBottom: 5,
+    },
+})
 
-AppRegistry.registerComponent('auto2000internal', () => auto2000internal);
+// const backgroundJob = {
+//     jobKey: 'myJob',
+//     job: () => console.log('Running in background')
+// }
+//
+// BackgroundJob.register(backgroundJob)
+
+AppRegistry.registerComponent('auto2000internal', () => auto2000internal)
